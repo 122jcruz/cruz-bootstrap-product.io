@@ -1,0 +1,69 @@
+.one,.navbar{
+  background-color: #000000;
+}
+.nav-item,a{
+  color: #FFFFFF;
+  font-size: 30px;
+  font-family: 'BenchNine', sans-serif;
+  font-weight: bold;
+}
+.active{
+  color:#E88BA1;
+}
+a:hover{
+  color:#E88BA1;
+}
+.logo{
+  height: 80px;
+  width: 90px;
+}
+.pink{
+  height: 15px;
+  width: 2000px
+}
+.card,.straw{
+  height: 500px;
+}
+.pinky{
+  width: 1250px;
+  height:15px;
+}
+.thing{
+  height: 15px;
+}
+.umm{
+  font-family: 'BenchNine', sans-serif;
+  font-weight: bold;
+}
+.um{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+.money{
+   font-family: 'Open Sans Condensed', sans-serif;
+   font-size: 60px;
+   font-weight: bold;
+}
+.ummm{
+  font-size:35px;
+  font-family: 'BenchNine', sans-serif;
+}
+.shades{
+  padding: 50px;
+  transition: transform .2s;
+  margin: 0 auto;
+}
+.shades:hover{
+  transform: scale(1.5);
+}
+.dos{
+  color:#000000;
+}
+.pinks{
+  width: 3000px;
+  height: 50px;
+}
+.btn{
+  width: 100px;
+}
